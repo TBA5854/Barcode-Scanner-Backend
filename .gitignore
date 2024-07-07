@@ -1,0 +1,5 @@
+.dockerignore
+dockerfile
+tmp.json
+index.js
+node_modules
